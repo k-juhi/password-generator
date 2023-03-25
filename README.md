@@ -1,7 +1,7 @@
 # password-generator
 
 ## Deployment
-
+https://k-juhi.github.io/password-generator/
 
 ## How to Use
 You will be presented with a form that allows you to customize the password generation parameters, such as the length and complexity of the password.
